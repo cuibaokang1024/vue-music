@@ -8,7 +8,7 @@ export function getLyric (mid) {
     pcachetime: +new Date(),
     platform: 'yqq',
     hostUin: 0,
-    needNewCode: 0,
+    needNewCode: 0000,
     g_tk: 67232076,
     format: 'json'
   })
